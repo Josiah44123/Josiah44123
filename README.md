@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Lam 👋
 
-<!--
-**Josiah44123/Josiah44123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer and Computer Science student at De La Salle Lipa, passionate about building civic tech and exploring algorithm analysis. Currently serving as the incoming President of JPCS. 
 
-Here are some ideas to get you started:
+**💻 Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 The Daily Commit-ment
+If you look at my contribution graph for this year, you'll see a lot of green. Full transparency: not every single commit is a groundbreaking feature or a massive pull request. Some days the workload is incredibly heavy, and a commit might just be a random refactor or a simple markdown update. 
+
+But those green squares aren't about perfection; they serve as a testament to consistency. They mean that no matter the situation, the academic pressure, or the project deadlines, I made the time to sit down, write code, and push forward. Showing up every day is the commitment I make to my life and my craft. 
+
+---
+📫 **Reach me:** 
+https://www.linkedin.com/in/josiahlamuelrosell/
+https://josiahrosell.space
