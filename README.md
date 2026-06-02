@@ -1,6 +1,6 @@
 ## Hi there, I'm Lam 👋
 
-I'm a Full-Stack Developer and Computer Science student at De La Salle Lipa, passionate about building civic tech and exploring algorithm analysis. Currently serving as the incoming President of JPCS. 
+I'm a Developer and Computer Science student at De La Salle Lipa, passionate about building civic tech and exploring algorithm analysis. Currently serving as the incoming President of JPCS. 
 
 **💻 Tech Stack:** Java, Python, React, Next.js, TypeScript, Tailwind CSS, Supabase
 
