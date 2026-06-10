@@ -10,6 +10,6 @@ If you look at my contribution graph for this year, you'll see a lot of green. F
 But those green squares aren't about perfection; they serve as a testament to consistency. They mean that no matter the situation, the academic pressure, or the project deadlines, I made the time to sit down, write code, and push forward. Showing up every day is the commitment I make to my life and my craft. 
 
 ---
-📫 **Reach me:** 
+📫 **More me:** 
 https://www.linkedin.com/in/josiahlamuelrosell/
 https://josiahrosell.space
