@@ -1,4 +1,4 @@
-## Hi there, I'm Lam 👋
+## Hi there, I'm Lam!👋
 
 I'm a Developer and Computer Science student at De La Salle Lipa, passionate about building civic tech and exploring algorithm analysis. Currently serving as the incoming President of JPCS. 
 
