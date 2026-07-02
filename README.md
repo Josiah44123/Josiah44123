@@ -2,7 +2,7 @@
 
 I'm a Developer and Computer Science student at De La Salle Lipa, passionate about building tech platforms and exploring algorithm analysis. Currently serving as the President of the Junior Philippine Computer Society - De La Salle Lipa Chapter (JPCS-DLSL). 
 
-**💻 Tech Stack:** Java, Python, React, Next.js, TypeScript, Tailwind CSS, Supabase
+**💻 Tech Stack:** Java, Python, React, Next.js, TypeScript, Tailwind CSS, Supabase, Vercel
 
 ### The Daily Commit-ment
 If you look at my contribution graph for this year, you'll see a lot of green. Full transparency: not every single commit is a groundbreaking feature or a massive pull request. Some days the workload is incredibly heavy, and a commit might just be a random refactor or a simple markdown update. 
