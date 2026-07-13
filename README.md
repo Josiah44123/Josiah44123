@@ -1,4 +1,4 @@
-## Hi there, I'm Lam!!
+## Hi there, I'm Lam!
 
 I'm a Developer and Computer Science student at De La Salle Lipa, passionate about building web apps and exploring algorithm analysis and focusing on project management. Currently serving as the President of the Junior Philippine Computer Society - De La Salle Lipa Chapter (JPCS-DLSL). 
 
@@ -13,3 +13,4 @@ But those green squares aren't really about perfection or a direct representatio
 📫 **More me:** 
 https://www.linkedin.com/in/josiahlamuelrosell/
 https://josiahrosell.space
+
